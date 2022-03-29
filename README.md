@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Tanmay-Tiwaricyber/tphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/Tanmay-Tiwaricyber/tphisher?style=for-the-badge">
+<!--   <img src="https://img.shields.io/github/stars/Tanmay-Tiwaricyber/tphisher?style=for-the-badge"> -->
   <img src="https://img.shields.io/github/issues/Tanmay-Tiwaricyber/tphisher?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/Tanmay-Tiwaricyber/tphisher?color=teal&style=for-the-badge">
 </p>
