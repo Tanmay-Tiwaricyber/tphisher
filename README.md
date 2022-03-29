@@ -1,4 +1,4 @@
-<!-- Zphisher -->
+<!-- Tphisher -->
 
 <p align="center">
   <img src=".imgs/logo.png">
@@ -78,6 +78,11 @@ $ docker run --rm -it Tanmay-Tiwaricyber/zphisher
 > All the dependencies will be installed automatically when you run `Tphisher` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
+
+<p align="center">
+  <img src=".imgs/working file.png">
+</p>
+
 
 ### Find Me on :
 <p align="left">
