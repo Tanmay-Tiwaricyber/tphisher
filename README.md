@@ -1,7 +1,7 @@
 <!-- Zphisher -->
 
 <p align="center">
-  <img src=".imgs/logo.png">
+  <img src="imgs/logo.png">
 </p>
 
 <p align="center">
