@@ -1,0 +1,8 @@
+Package: tphisher
+Version: 1.0
+Installed-Size: 9400
+Architecture: all
+Maintainer: @Tanmay-Tiwaricyber
+Depends: php, wget, git, curl
+Homepage: https://github.com/Tanmay-Tiwaricyber
+Description: An automated phishing tool with 30+ templates. This Tool is made for educational purpose only !
