@@ -86,9 +86,3 @@ $ docker run --rm -it Tanmay-Tiwaricyber/zphisher
   <img src=".imgs/working file 2.png">
 </p>
 
-
-### Find Me on :
-<p align="left">
-  <a href="https://github.com/Tanmay-Tiwaricyber" target="_blank"><img src="https://img.shields.io/badge/Github/Tanmay-Tiwaricyber-green?style=for-the-badge&logo=github"></a>
-</p>
-
