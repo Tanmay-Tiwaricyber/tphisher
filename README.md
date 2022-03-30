@@ -89,6 +89,6 @@ $ docker run --rm -it Tanmay-Tiwaricyber/zphisher
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/Tanmay-Tiwaricyber" target="_blank"><img src="https://img.shields.io/badge/Github/Tanmay-Tiwaricyber-green?style=for-the-badge&logo=github"></a>
+  <a href="https://github.com/Tanmay-Tiwaricyber" target="_blank"><img src="https://img.shields.io/badge/Github/TanmayTiwaricyber-green?style=for-the-badge&logo=github"></a>
 </p>
 
