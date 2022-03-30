@@ -59,7 +59,7 @@ $ cd tphisher
 $ bash tphisher.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
+- On first launch, It'll install the dependencies and that's it. `Tphisher` is installed.
 
 ### Run on Docker
 ```
