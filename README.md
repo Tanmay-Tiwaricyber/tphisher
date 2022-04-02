@@ -3,7 +3,7 @@
 <p align="center">
   <img src=".imgs/logo.png">
 </p>
-
+<h2>This Tool is Developed by Tanmay Tiwari</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
   <img src="https://img.shields.io/github/license/Tanmay-Tiwaricyber/tphisher?style=for-the-badge">
