@@ -86,3 +86,6 @@ $ docker run --rm -it Tanmay-Tiwaricyber/zphisher
   <img src=".imgs/working file 2.png">
 </p>
 
+
+[![Stargazers repo roster for @Tanmay-Tiwaricyber/tphisher](https://reporoster.com/stars/dark/Tanmay-Tiwaricyber/tphisher)](https://github.com/Tanmay-Tiwaricyber/tphisher/stargazers)
+
